@@ -10,9 +10,12 @@ def Cursos():
 
 def Habilidades_Programacao():
     skill_developer = ['+ Python 3',
-                       '+ Banco de Dados MySQL',
-                       '+ MySQL Workbench',
-                       '+ GitHub']
+                       '+ Banco de Dados Relacionais',
+                       '+ Flutter',
+                       '+ Dart',
+                       '+ JavaScript',
+                       '+ ReactNative']
+                       
     for v in skill_developer:
         print(v)
 
